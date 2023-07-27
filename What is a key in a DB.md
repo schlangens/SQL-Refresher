@@ -17,6 +17,7 @@ DB Name: Restaurant
 
 ## Unique Key
 - Can be a single or a set of columns
+- Can be used to extract records as well
 - Cant have dupe values
 - Ex: ResPhonenumber, ResEmail
 
